@@ -147,7 +147,7 @@ Set num = num & ~(1 << bitPosition).
 
 ## **OUTPUT**
 
-- **Set and Resst the given bit**
+- **Set and Reset the given bit**
 
 
 ![exp4_3](https://github.com/Purvansha022609/Bitwise-Operator/assets/139473344/596128ab-9821-4e9d-b170-ec1ef91b00ae)
